@@ -348,7 +348,7 @@ class Search extends React.Component {
                         {/*This is map implementation*/}
                         <div className="heat-map" style={{ height: '50vh', width: '100%' }}>
                             <GoogleMapReact
-                                bootstrapURLKeys={{ key: 'AIzaSyDzZe3mc2opzmbZavOC5j335M216rWgqEY' }}
+                                bootstrapURLKeys={{ key: 'GOOGLE API KEY' }}
                                 center={[-22.9176, 146.7028]}
                                 zoom={5.2}
                                 heatmapLibrary={true}
