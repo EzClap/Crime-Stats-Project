@@ -1,11 +1,13 @@
 {
-  "main.js": "/static/js/main.f2e57e6b.chunk.js",
-  "main.js.map": "/static/js/main.f2e57e6b.chunk.js.map",
-  "static/js/1.f079eda0.chunk.js": "/static/js/1.f079eda0.chunk.js",
-  "static/js/1.f079eda0.chunk.js.map": "/static/js/1.f079eda0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d71e3530db922b5f6709318f3e1f3577.js": "/precache-manifest.d71e3530db922b5f6709318f3e1f3577.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/Crime-Stats-Project/static/js/main.ac2022c9.chunk.js",
+  "main.js.map": "/Crime-Stats-Project/static/js/main.ac2022c9.chunk.js.map",
+  "static/css/1.f428290e.chunk.css": "/Crime-Stats-Project/static/css/1.f428290e.chunk.css",
+  "static/js/1.8603f9d5.chunk.js": "/Crime-Stats-Project/static/js/1.8603f9d5.chunk.js",
+  "static/js/1.8603f9d5.chunk.js.map": "/Crime-Stats-Project/static/js/1.8603f9d5.chunk.js.map",
+  "runtime~main.js": "/Crime-Stats-Project/static/js/runtime~main.965dfded.js",
+  "runtime~main.js.map": "/Crime-Stats-Project/static/js/runtime~main.965dfded.js.map",
+  "static/css/1.f428290e.chunk.css.map": "/Crime-Stats-Project/static/css/1.f428290e.chunk.css.map",
+  "index.html": "/Crime-Stats-Project/index.html",
+  "precache-manifest.d7c95bfe812c1ef44c71298fe0db431c.js": "/Crime-Stats-Project/precache-manifest.d7c95bfe812c1ef44c71298fe0db431c.js",
+  "service-worker.js": "/Crime-Stats-Project/service-worker.js"
 }
