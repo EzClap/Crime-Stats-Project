@@ -1,6 +1,7 @@
 {
   "name": "react-i-starter",
   "version": "1.0.0",
+  "homepage": "https://jackhu-gc.github.io/Crime-Stats-Project/",
   "description": "The first starter kit for React for the CAB230 course in 2019.",
   "keywords": [],
   "main": "src/index.js",
@@ -20,6 +21,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
