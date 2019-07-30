@@ -102,7 +102,7 @@ class Search extends React.Component {
 
         
         // const baseUrl = "https://172.22.30.87/search?";
-        const baseUrl = "https://cab230.hackhouse.sh/search?";
+        const baseUrl = "http://13.237.111.17/search?";
         const query = "offence=" + this.state.offsearch;
         const filterlga = "area=" + this.state.areasearch;
         const filterage = "age=" + this.state.agesearch;
@@ -348,7 +348,7 @@ class Search extends React.Component {
                         {/*This is map implementation*/}
                         <div className="heat-map" style={{ height: '50vh', width: '100%' }}>
                             <GoogleMapReact
-                                bootstrapURLKeys={{ key: 'GOOGLE API KEY' }}
+                                bootstrapURLKeys={{ key: 'AIzaSyDzZe3mc2opzmbZavOC5j335M216rWgqEY' }}
                                 center={[-22.9176, 146.7028]}
                                 zoom={5.2}
                                 heatmapLibrary={true}

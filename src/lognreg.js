@@ -69,7 +69,7 @@ class LoginBox extends React.Component {
     }
     //Login fetch
     LoginAcc = (emailinput, passcodeinput) => {
-        fetch("https://cab230.hackhouse.sh/login", {
+        fetch("http://13.237.111.17/login", {
         // fetch("https://172.22.30.87/login", {
             method: "POST",
             body: "email=" + emailinput + "&password=" + passcodeinput,
@@ -187,7 +187,7 @@ class RegisterBox extends React.Component {
     //register fetch 
     RegAcc = (emailinput, passcodeinput) => {
         
-        fetch("https://cab230.hackhouse.sh/register", {
+        fetch("http://13.237.111.17/register", {
         // fetch("https://172.22.30.87/register", {
             method: "POST",
             body: "email=" + emailinput + "&password=" + passcodeinput,

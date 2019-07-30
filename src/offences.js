@@ -55,7 +55,7 @@ export function filterCaseInsensitive(filter, row) {
 //fetch data from offences list in the data backend
 function OpenSource() {
     // const url = "https://172.22.30.87/offences"
-    const url = "https://cab230.hackhouse.sh/offences"
+    const url = "http://13.237.111.17/offences"
     return fetch(url)
         .then((res) => res.json())
         .then((res) => res.offences)
